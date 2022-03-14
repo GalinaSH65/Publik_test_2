@@ -1,0 +1,13 @@
+запустить git cmd  на компьютере
+выбрать директорию, где находится репозиторий с новым файлом
+в данном случае C:\Users\ТК\Desktop\тесты\9 GitHub\Publik_test_2
+набрать в строке cd C:\Users\ТК\Desktop\тесты\9 GitHub\Publik_test_2
+git status
+dir
+git status
+git add.
+git commit -m "a new jile is added"
+git status
+git log
+git push origin main
+в результате в репозиторий в сети должен добавиться новый файл.
